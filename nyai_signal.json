@@ -1,1 +1,20 @@
-{"ver":1,"sym":"XAU_USD","mode":"scalp","side":"SELL","trend":"SELL","strength":94,"reversal":0,"continuation":100,"regime":"CONTINUATION BIAS","px":64392.775,"entry":64365.37,"sl":65698.28,"tp":61952.02,"rr":1.81,"hz":"SCALP","id":"NY1794725414-6","t":1794725536}
+{
+  "ver": 2,
+  "updated": 1794725549,
+  "pairs": {
+    "XAU_USD": {
+      "ver": 2,
+      "sym": "XAU_USD",
+      "mode": "scalp",
+      "side": "NONE",
+      "trend": "BUY",
+      "strength": 40,
+      "reversal": 13,
+      "continuation": 26,
+      "regime": "NO CLEAR EDGE",
+      "px": 3818.94,
+      "id": "NYT5982418",
+      "t": 1794725548
+    }
+  }
+}
