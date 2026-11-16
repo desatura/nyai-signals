@@ -7,14 +7,14 @@
       "sym": "XAU_USD",
       "mode": "scalp",
       "side": "NONE",
-      "trend": "NONE",
-      "strength": 42,
-      "reversal": 10,
-      "continuation": 30,
-      "regime": "NO CLEAR EDGE",
-      "px": 3857.54,
+      "trend": "SELL",
+      "strength": 87,
+      "reversal": 0,
+      "continuation": 100,
+      "regime": "CONTINUATION BIAS",
+      "px": 64361.775,
       "id": "NYT5982737",
-      "t": 1794821326
+      "t": 1794821323
     }
   }
 }
