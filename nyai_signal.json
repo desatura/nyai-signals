@@ -1,6 +1,6 @@
 {
   "ver": 2,
-  "updated": 1795111128,
+  "updated": 1795111129,
   "pairs": {
     "XAU_USD": {
       "ver": 2,
@@ -8,11 +8,11 @@
       "mode": "intra",
       "side": "NONE",
       "trend": "SELL",
-      "strength": 61,
-      "reversal": 11,
-      "continuation": 70,
+      "strength": 85,
+      "reversal": 0,
+      "continuation": 100,
       "regime": "CONTINUATION BIAS",
-      "px": 62788.885,
+      "px": 3672.89,
       "id": "NYT5983703",
       "t": 1795111127
     }
