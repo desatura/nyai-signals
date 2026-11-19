@@ -5,16 +5,16 @@
     "XAU_USD": {
       "ver": 2,
       "sym": "XAU_USD",
-      "mode": "scalp",
+      "mode": "intra",
       "side": "NONE",
       "trend": "SELL",
-      "strength": 45,
-      "reversal": 0,
-      "continuation": 56,
+      "strength": 32,
+      "reversal": 24,
+      "continuation": 21,
       "regime": "NO CLEAR EDGE",
-      "px": 3719.75,
+      "px": 63787.105,
       "id": "NYT5983634",
-      "t": 1795090247
+      "t": 1795090246
     }
   }
 }
