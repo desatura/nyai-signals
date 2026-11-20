@@ -1,11 +1,11 @@
 {
   "ver": 2,
-  "updated": 1795216131,
+  "updated": 1795216134,
   "pairs": {
     "XAU_USD": {
       "ver": 2,
       "sym": "XAU_USD",
-      "mode": "intra",
+      "mode": "scalp",
       "side": "NONE",
       "trend": "SELL",
       "strength": 58,
@@ -14,7 +14,7 @@
       "regime": "NO CLEAR EDGE",
       "px": 3538.75,
       "id": "NYT5984053",
-      "t": 1795216128
+      "t": 1795216133
     }
   }
 }
